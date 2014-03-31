@@ -1,0 +1,14 @@
+@@@@The user start game
+# word, name, category, guesses 
+eagle,w,animals,6
+#rightGuess,wrongGuess,hidden,status
+ ,t,-----,1
+ ,to,-----,2
+ ,top,-----,3
+ e,top,e---e,3
+ ea,top,ea--e,3
+ eag,top,eag-e,3
+ eag,topk,eag-e,4
+ eag,topkq,eag-e,5
+ eagl,topkq,eagle,5
+ 

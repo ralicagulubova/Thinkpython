@@ -1,0 +1,10 @@
+@@@@The user start game
+# word, name, category, guesses 
+ bear,aria,animals,6
+#rightGuess,wrongGuess,hidden,status
+b,,b---,0
+b,t,b---,1
+be,t,be--,1
+bea,t,bea-,1
+bear,t,bear,1
+@@@@The user win and finish the the game

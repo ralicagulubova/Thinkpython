@@ -1,0 +1,53 @@
+2014-03-18 15:55:03,896 : The user start game
+2014-03-18 15:55:21,625 : The user guessed  is: f
+2014-03-18 15:55:22,337 : The user guessed  is: e
+2014-03-18 15:55:24,161 : The user guessed  is: u
+2014-03-18 15:55:25,601 : The user guessed  is: p
+2014-03-18 15:55:27,297 : The user guessed  is: r
+2014-03-18 15:55:28,849 : The user guessed  is: t
+2014-03-18 15:57:08,743 : The user start game
+2014-03-18 15:57:19,729 : The user guessed  is: r
+2014-03-18 15:57:20,561 : The user guessed  is: a
+2014-03-18 15:57:21,441 : The user guessed  is: m
+2014-03-18 16:13:48,204 : The user start game
+2014-03-18 16:13:51,841 : ram,Raly,6
+2014-03-18 16:13:53,897 : The user guessed  is: k
+2014-03-18 16:13:53,897 : ram,Raly,6
+2014-03-18 16:13:55,169 : The user guessed  is: l
+2014-03-18 16:13:55,169 : ram,Raly,6
+2014-03-18 16:13:57,153 : The user guessed  is: r
+2014-03-18 16:13:57,153 : ram,Raly,6
+2014-03-18 16:13:58,164 : The user guessed  is: a
+2014-03-18 16:13:58,164 : ram,Raly,6
+2014-03-18 16:13:59,281 : The user guessed  is: m
+2014-03-18 16:13:59,281 : ram,kl,ram
+2014-03-18 16:14:45,302 : The user start game
+2014-03-18 16:14:56,481 : turkey,Raly,6
+2014-03-18 16:15:05,121 : turkey,Raly,6
+2014-03-18 16:15:06,609 : turkey,Raly,6
+2014-03-18 16:15:08,321 : turkey,Raly,6
+2014-03-18 16:15:09,993 : turkey,Raly,6
+2014-03-18 16:15:11,393 : turkey,Raly,6
+2014-03-18 16:15:13,017 : turkey,Raly,6
+2014-03-18 16:15:15,073 : turkey,Raly,6
+2014-03-18 16:15:18,521 : retyuk,lq,turkey
+2014-03-18 16:16:31,562 : The user start game
+2014-03-18 16:16:35,105 : frog,Raly,6
+2014-03-18 16:16:40,921 : frog,Raly,6
+2014-03-18 16:16:42,761 : frog,Raly,6
+2014-03-18 16:16:44,385 : frog,Raly,6
+2014-03-18 16:16:44,969 : rf,p,fr--
+2014-03-18 16:16:45,705 : frog,Raly,6
+2014-03-18 16:16:46,369 : frog,Raly,6
+2014-03-18 16:16:48,345 : rfo,pk,fro-
+2014-03-18 16:19:58,404 : The user start game
+2014-03-18 16:20:02,609 : ########parrot,Raly,6
+2014-03-18 16:24:14,124 : The user start game
+2014-03-18 16:24:17,873 : ### word,name, tries: coyote,Raly,6
+2014-03-18 16:24:22,617 : ### rightGuess, wrongGuess, hidden :c,,c-----
+2014-03-18 16:24:23,337 : ### rightGuess, wrongGuess, hidden :c,a,c-----
+2014-03-18 16:24:23,993 : ### rightGuess, wrongGuess, hidden :cy,a,c-y---
+2014-03-18 16:24:25,321 : ### rightGuess, wrongGuess, hidden :cy,ar,c-y---
+2014-03-18 16:24:26,609 : ### rightGuess, wrongGuess, hidden :cyo,ar,coyo--
+2014-03-18 16:24:28,041 : ### rightGuess, wrongGuess, hidden :cyot,ar,coyot-
+2014-03-18 16:24:29,369 : ### rightGuess, wrongGuess, hidden :cyote,ar,coyote

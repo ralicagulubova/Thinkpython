@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-03-18 15:07+EET\n"
+"PO-Revision-Date: 2014-03-18 15:12+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: Hangman.py:83
+msgid "What is your name?"
+msgstr "Как се казваш?"
+
+#: Hangman.py:85
+msgid " Hello,  {name} .This is HANGMAN game!!! Enjooy"
+msgstr "Здравей, {name}.Това е играта \"Бесеница\"!Наслаждавай се!!"
+
+#: Hangman.py:86
+msgid " You can guess wrong only 6 times"
+msgstr "Внимавай: можеш да сгрешиш само 6 пъти"
+
+#: Hangman.py:87
+msgid " The word you should guess has {word_length} characters "
+msgstr "Думата, която трябва да познаеш, има {word_length} букви"
+
+#: Hangman.py:135
+msgid " Please enter a character"
+msgstr "Моля въведете буква."
+
+#: Hangman.py:139
+msgid "abcdefghijklmnopqrstuvwxyz"
+msgstr "абвгдежзийклмнопрстуфхцчшщъюя"
+
+#: Hangman.py:144
+msgid ""
+"You should enter only one character from the alphabet without repeating it"
+msgstr "Трябва да въведеш само една буква от азбуката без да я повтаряш."
+
+#: Hangman.py:160
+msgid " You loose the word was \" {word} \" try next time"
+msgstr "Съжалявам,загуби.Думата беше  \" {word} \".Опитай пак !"
+
+#: Hangman.py:164
+msgid " You are smart the word was \" {word} \" Good job"
+msgstr "Браво! Умен си! Думата беше \" {word} \" .Добра работа!"

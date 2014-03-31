@@ -1,0 +1,13 @@
+@@@@The user start game
+# word, name, category, guesses 
+pigeon,Marry,animals,6
+#rightGuess,wrongGuess,hidden,status
+,u,------,1
+p,u,p-----,1
+p,ur,p-----,2
+p,urm,p-----,3
+pi,urm,pi----,3
+pig,urm,pig---,3
+pig,urmy,pig---,4
+pig,urmyq,pig---,5
+pig,urmyqw,pig---,6

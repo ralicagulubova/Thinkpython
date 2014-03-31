@@ -1,0 +1,15 @@
+@@@@The user start game
+# word, name, category, guesses 
+monkey,Marry,animals,6
+#rightGuess,wrongGuess,hidden,status
+ ,r,------,1
+y,r,-----y,1
+ym,r,m----y,1
+ymo,r,mo---y,1
+ymo,rq,mo---y,2
+ymoe,rq,mo--ey,2
+ymoe,rqt,mo--ey,3
+ymoen,rqt,mon-ey,3
+ymoenk,rqt,monkey,3
+@@@@The user win and finish the the game
+2014-03-31 09:08:24,643 : user:2014-03-31 09:08:24.643749 start the game

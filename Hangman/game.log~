@@ -1,0 +1,51 @@
+@@@@The user start game
+# word, name, category, guesses 
+eagle,w,animals,6
+#rightGuess,wrongGuess,hidden,status
+ ,t,-----,1
+ ,to,-----,2
+ ,top,-----,3
+ e,top,e---e,3
+ ea,top,ea--e,3
+ eag,top,eag-e,3
+ eag,topk,eag-e,4
+ eag,topkq,eag-e,5
+ eagl,topkq,eagle,5
+ 
+@@@@The user start game
+# word, name, category, guesses 
+eagle,w,animals,6
+#rightGuess,wrongGuess,hidden,status
+ ,t,-----,1
+ ,to,-----,2
+ ,top,-----,3
+ e,top,e---e,3
+ ea,top,ea--e,3
+ eag,top,eag-e,3
+ eag,topk,eag-e,4
+ eag,topkq,eag-e,5
+ eagl,topkq,eagle,5
+ 
+@@@@The user start game
+# word, name, category, guesses 
+eagle,w,animals,6
+#rightGuess,wrongGuess,hidden,status
+ ,t,-----,1
+ ,to,-----,2
+ ,top,-----,3
+ e,top,e---e,3
+ ea,top,ea--e,3
+ eag,top,eag-e,3
+ eag,topk,eag-e,4
+ eag,topkq,eag-e,5
+ eagl,topkq,eagle,5
+ 
+2014-03-25 13:37:07,176 : @@@@The user start game
+2014-03-25 13:37:07,202 : # word, name, category, guesses 
+2014-03-25 13:37:52,048 :  baboon,Rally,animals,6
+2014-03-25 13:37:52,049 : #rightGuess,wrongGuess,hidden,status
+2014-03-25 13:37:55,329 : b,,b-b---,0
+2014-03-25 13:37:56,721 : ba,,bab---,0
+2014-03-25 13:38:00,705 : bao,,baboo-,0
+2014-03-25 13:38:01,825 : baon,,baboon,0
+2014-03-25 13:38:01,825 : @@@@The user win and finish the the game

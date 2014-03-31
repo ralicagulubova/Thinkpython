@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-03-18 15:07+EET\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: Hangman.py:83
+msgid "What is your name?"
+msgstr ""
+
+#: Hangman.py:85
+msgid " Hello,  {name} .This is HANGMAN game!!! Enjooy"
+msgstr ""
+
+#: Hangman.py:86
+msgid " You can guess wrong only 6 times"
+msgstr ""
+
+#: Hangman.py:87
+msgid " The word you should guess has {word_length} characters "
+msgstr ""
+
+#: Hangman.py:135
+msgid " Please enter a character"
+msgstr ""
+
+#: Hangman.py:139
+msgid "abcdefghijklmnopqrstuvwxyz"
+msgstr ""
+
+#: Hangman.py:144
+msgid "You should enter only one character from the alphabet without repeating it"
+msgstr ""
+
+#: Hangman.py:160
+msgid " You loose the word was \" {word} \" try next time"
+msgstr ""
+
+#: Hangman.py:164
+msgid " You are smart the word was \" {word} \" Good job"
+msgstr ""
+
