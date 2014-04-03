@@ -1,0 +1,8 @@
+@@@@The user start game
+# word, name, category, guesses 
+green,gfddf,words/colour,6
+r,,-r---,0
+r,o,-r---,1
+rg,o,gr---,1
+rge,o,gree-,1
+rgen,o,green,1

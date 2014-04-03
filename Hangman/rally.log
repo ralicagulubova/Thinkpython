@@ -1,2 +1,9 @@
 @@@@The user start game
-@@@@The user start game
+# word, name, category, guesses 
+red,rally,words/colour,6
+e,,-e-,0
+er,,re-,0
+er,p,re-,1
+er,pw,re-,2
+erd,pw,red,2
+@@@@The user win and finish the the game

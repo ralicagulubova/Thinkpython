@@ -1,0 +1,699 @@
+************* Module classDisplay
+C:  3, 0: Line too long (87/80) (line-too-long)
+C:  4, 0: Line too long (87/80) (line-too-long)
+C:  5, 0: Line too long (87/80) (line-too-long)
+C:  6, 0: Line too long (87/80) (line-too-long)
+C:  7, 0: Line too long (88/80) (line-too-long)
+C:  8, 0: Line too long (88/80) (line-too-long)
+C:  9, 0: Line too long (88/80) (line-too-long)
+C: 15, 0: Trailing whitespace (trailing-whitespace)
+C: 18, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: No space allowed around keyword argument assignment
+    def game(self, currentword, hidden, wrongGuess = " "): 
+                                                   ^ (bad-whitespace)
+C: 28, 0: Trailing whitespace (trailing-whitespace)
+C: 30, 0: Trailing whitespace (trailing-whitespace)
+C: 32, 0: Trailing whitespace (trailing-whitespace)
+C: 36, 0: Trailing whitespace (trailing-whitespace)
+C: 37, 0: Trailing whitespace (trailing-whitespace)
+C: 38, 0: Trailing whitespace (trailing-whitespace)
+C: 39, 0: Trailing whitespace (trailing-whitespace)
+C: 40, 0: Trailing whitespace (trailing-whitespace)
+C: 41, 0: Trailing whitespace (trailing-whitespace)
+C: 42, 0: Trailing whitespace (trailing-whitespace)
+C: 44, 0: Trailing whitespace (trailing-whitespace)
+C: 46, 0: Trailing whitespace (trailing-whitespace)
+C: 53, 0: Trailing whitespace (trailing-whitespace)
+C: 54, 0: Trailing whitespace (trailing-whitespace)
+C: 55, 0: Trailing whitespace (trailing-whitespace)
+C: 59, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Invalid module name "classDisplay" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 13, 0: Invalid class name "hangmanDisplay" (invalid-name)
+C: 22, 8: Invalid attribute name "HANGMANPICS" (invalid-name)
+C: 31, 8: Invalid attribute name "wrongGuess" (invalid-name)
+C: 13, 0: Old-style class defined. (old-style-class)
+W: 16,23: Redefining name 'HANGMANPICS' from outer scope (line 2) (redefined-outer-name)
+C: 16, 4: Invalid argument name "HANGMANPICS" (invalid-name)
+C: 24, 4: Invalid argument name "wrongGuess" (invalid-name)
+C: 33, 4: Invalid method name "Display_game" (invalid-name)
+C: 47, 4: Invalid method name "Display_hidden" (invalid-name)
+W: 29, 8: Attribute 'currentword' defined outside __init__ (attribute-defined-outside-init)
+W: 30, 8: Attribute 'hidden' defined outside __init__ (attribute-defined-outside-init)
+W: 31, 8: Attribute 'wrongGuess' defined outside __init__ (attribute-defined-outside-init)
+C:  3, 0: Line too long (87/80) (line-too-long)
+C:  4, 0: Line too long (87/80) (line-too-long)
+C:  5, 0: Line too long (87/80) (line-too-long)
+C:  6, 0: Line too long (87/80) (line-too-long)
+C:  7, 0: Line too long (88/80) (line-too-long)
+C:  8, 0: Line too long (88/80) (line-too-long)
+C:  9, 0: Line too long (88/80) (line-too-long)
+C: 15, 0: Trailing whitespace (trailing-whitespace)
+C: 18, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: No space allowed around keyword argument assignment
+    def game(self, currentword, hidden, wrongGuess = " "): 
+                                                   ^ (bad-whitespace)
+C: 28, 0: Trailing whitespace (trailing-whitespace)
+C: 30, 0: Trailing whitespace (trailing-whitespace)
+C: 32, 0: Trailing whitespace (trailing-whitespace)
+C: 36, 0: Trailing whitespace (trailing-whitespace)
+C: 37, 0: Trailing whitespace (trailing-whitespace)
+C: 38, 0: Trailing whitespace (trailing-whitespace)
+C: 39, 0: Trailing whitespace (trailing-whitespace)
+C: 40, 0: Trailing whitespace (trailing-whitespace)
+C: 41, 0: Trailing whitespace (trailing-whitespace)
+C: 42, 0: Trailing whitespace (trailing-whitespace)
+C: 44, 0: Trailing whitespace (trailing-whitespace)
+C: 46, 0: Trailing whitespace (trailing-whitespace)
+C: 53, 0: Trailing whitespace (trailing-whitespace)
+C: 54, 0: Trailing whitespace (trailing-whitespace)
+C: 55, 0: Trailing whitespace (trailing-whitespace)
+C: 59, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Invalid module name "classDisplay" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 13, 0: Invalid class name "hangmanDisplay" (invalid-name)
+C: 22, 8: Invalid attribute name "HANGMANPICS" (invalid-name)
+C: 31, 8: Invalid attribute name "wrongGuess" (invalid-name)
+C: 13, 0: Old-style class defined. (old-style-class)
+W: 16,23: Redefining name 'HANGMANPICS' from outer scope (line 2) (redefined-outer-name)
+C: 16, 4: Invalid argument name "HANGMANPICS" (invalid-name)
+C: 24, 4: Invalid argument name "wrongGuess" (invalid-name)
+C: 33, 4: Invalid method name "Display_game" (invalid-name)
+C: 47, 4: Invalid method name "Display_hidden" (invalid-name)
+W: 29, 8: Attribute 'currentword' defined outside __init__ (attribute-defined-outside-init)
+W: 30, 8: Attribute 'hidden' defined outside __init__ (attribute-defined-outside-init)
+W: 31, 8: Attribute 'wrongGuess' defined outside __init__ (attribute-defined-outside-init)
+************* Module classGame
+C: 13, 0: Trailing whitespace (trailing-whitespace)
+C: 17, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: No space allowed around keyword argument assignment
+    def __init__(self, currentword, hidden = " ", rightGuess= " ", 
+                                           ^ (bad-whitespace)
+C: 24, 0: No space allowed after keyword argument assignment
+    def __init__(self, currentword, hidden = " ", rightGuess= " ", 
+                                                            ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                            ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                 ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                       ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                                    ^ (bad-whitespace)
+C: 33, 0: Trailing whitespace (trailing-whitespace)
+C: 40, 0: Trailing whitespace (trailing-whitespace)
+C: 41, 0: Trailing whitespace (trailing-whitespace)
+C: 49, 0: Trailing whitespace (trailing-whitespace)
+C: 54, 0: Trailing whitespace (trailing-whitespace)
+C: 55, 0: Trailing whitespace (trailing-whitespace)
+C: 63, 0: Trailing whitespace (trailing-whitespace)
+C: 66, 0: Trailing whitespace (trailing-whitespace)
+C: 68, 0: Trailing whitespace (trailing-whitespace)
+C: 73, 0: Exactly one space required after comma
+            logging.info("%s,%s,%s,%s",self.rightGuess,self.wrongGuess,
+                                      ^ (bad-whitespace)
+C: 73, 0: Exactly one space required after comma
+            logging.info("%s,%s,%s,%s",self.rightGuess,self.wrongGuess,
+                                                      ^ (bad-whitespace)
+C: 74, 0: Exactly one space required after comma
+                         self.hidden,len(self.wrongGuess))
+                                    ^ (bad-whitespace)
+C: 75, 0: Trailing whitespace (trailing-whitespace)
+C: 76, 0: Trailing whitespace (trailing-whitespace)
+C: 77, 0: Trailing whitespace (trailing-whitespace)
+C: 79, 0: Line too long (105/80) (line-too-long)
+C: 83, 0: Line too long (106/80) (line-too-long)
+C: 86, 0: Trailing whitespace (trailing-whitespace)
+C: 87, 0: Trailing whitespace (trailing-whitespace)
+C: 88, 0: Trailing whitespace (trailing-whitespace)
+C: 89, 0: Trailing whitespace (trailing-whitespace)
+C: 91, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Invalid module name "classGame" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Wildcard import classPlayer (wildcard-import)
+W:  2, 0: Wildcard import classDisplay (wildcard-import)
+W:  3, 0: Wildcard import classWord (wildcard-import)
+C: 29, 8: Invalid attribute name "wrongGuess" (invalid-name)
+C: 31, 8: Invalid attribute name "SHOTS" (invalid-name)
+C: 28, 8: Invalid attribute name "rightGuess" (invalid-name)
+C:  7, 0: Missing class docstring (missing-docstring)
+R: 24, 4: Too many arguments (7/5) (too-many-arguments)
+C: 34, 4: Missing method docstring (missing-docstring)
+E: 34, 4: An attribute affected in classGame line 27 hide this method (method-hidden)
+C: 42, 4: Missing method docstring (missing-docstring)
+C: 56, 4: Missing method docstring (missing-docstring)
+E: 69,12: No value passed for parameter 'hidden' in function call (no-value-for-parameter)
+E: 70,12: Too many positional arguments for function call (too-many-function-args)
+W: 47,12: Attribute 'guess' defined outside __init__ (attribute-defined-outside-init)
+W:  3, 0: Unused import random from wildcard import (unused-wildcard-import)
+W:  3, 0: Unused import Word from wildcard import (unused-wildcard-import)
+C: 13, 0: Trailing whitespace (trailing-whitespace)
+C: 17, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: Trailing whitespace (trailing-whitespace)
+C: 24, 0: No space allowed around keyword argument assignment
+    def __init__(self, currentword, hidden = " ", rightGuess= " ", 
+                                           ^ (bad-whitespace)
+C: 24, 0: No space allowed after keyword argument assignment
+    def __init__(self, currentword, hidden = " ", rightGuess= " ", 
+                                                            ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                            ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                 ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                       ^ (bad-whitespace)
+C: 25, 0: No space allowed around keyword argument assignment
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+                                                    ^ (bad-whitespace)
+C: 33, 0: Trailing whitespace (trailing-whitespace)
+C: 40, 0: Trailing whitespace (trailing-whitespace)
+C: 41, 0: Trailing whitespace (trailing-whitespace)
+C: 49, 0: Trailing whitespace (trailing-whitespace)
+C: 54, 0: Trailing whitespace (trailing-whitespace)
+C: 55, 0: Trailing whitespace (trailing-whitespace)
+C: 63, 0: Trailing whitespace (trailing-whitespace)
+C: 66, 0: Trailing whitespace (trailing-whitespace)
+C: 68, 0: Trailing whitespace (trailing-whitespace)
+C: 73, 0: Exactly one space required after comma
+            logging.info("%s,%s,%s,%s",self.rightGuess,self.wrongGuess,
+                                      ^ (bad-whitespace)
+C: 73, 0: Exactly one space required after comma
+            logging.info("%s,%s,%s,%s",self.rightGuess,self.wrongGuess,
+                                                      ^ (bad-whitespace)
+C: 74, 0: Exactly one space required after comma
+                         self.hidden,len(self.wrongGuess))
+                                    ^ (bad-whitespace)
+C: 75, 0: Trailing whitespace (trailing-whitespace)
+C: 76, 0: Trailing whitespace (trailing-whitespace)
+C: 77, 0: Trailing whitespace (trailing-whitespace)
+C: 79, 0: Line too long (105/80) (line-too-long)
+C: 83, 0: Line too long (106/80) (line-too-long)
+C: 86, 0: Trailing whitespace (trailing-whitespace)
+C: 87, 0: Trailing whitespace (trailing-whitespace)
+C: 88, 0: Trailing whitespace (trailing-whitespace)
+C: 89, 0: Trailing whitespace (trailing-whitespace)
+C: 91, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Invalid module name "classGame" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Wildcard import classPlayer (wildcard-import)
+W:  2, 0: Wildcard import classDisplay (wildcard-import)
+W:  3, 0: Wildcard import classWord (wildcard-import)
+C: 29, 8: Invalid attribute name "wrongGuess" (invalid-name)
+C: 31, 8: Invalid attribute name "SHOTS" (invalid-name)
+C: 28, 8: Invalid attribute name "rightGuess" (invalid-name)
+C:  7, 0: Missing class docstring (missing-docstring)
+R: 24, 4: Too many arguments (7/5) (too-many-arguments)
+C: 34, 4: Missing method docstring (missing-docstring)
+E: 34, 4: An attribute affected in classGame line 27 hide this method (method-hidden)
+C: 42, 4: Missing method docstring (missing-docstring)
+C: 56, 4: Missing method docstring (missing-docstring)
+E: 69,12: No value passed for parameter 'hidden' in function call (no-value-for-parameter)
+E: 70,12: Too many positional arguments for function call (too-many-function-args)
+W: 47,12: Attribute 'guess' defined outside __init__ (attribute-defined-outside-init)
+W:  3, 0: Unused import random from wildcard import (unused-wildcard-import)
+W:  3, 0: Unused import Word from wildcard import (unused-wildcard-import)
+************* Module classPlayer
+C: 11, 0: Trailing whitespace (trailing-whitespace)
+C: 18, 0: Trailing whitespace (trailing-whitespace)
+C: 19, 0: Trailing whitespace (trailing-whitespace)
+C: 20, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Invalid module name "classPlayer" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Class has no __init__ method (no-init)
+C:  1, 0: Old-style class defined. (old-style-class)
+E:  5, 4: An attribute affected in classPlayer line 10 hide this method (method-hidden)
+E: 12, 4: An attribute affected in classPlayer line 17 hide this method (method-hidden)
+C: 11, 0: Trailing whitespace (trailing-whitespace)
+C: 18, 0: Trailing whitespace (trailing-whitespace)
+C: 19, 0: Trailing whitespace (trailing-whitespace)
+C: 20, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Invalid module name "classPlayer" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Class has no __init__ method (no-init)
+C:  1, 0: Old-style class defined. (old-style-class)
+E:  5, 4: An attribute affected in classPlayer line 10 hide this method (method-hidden)
+E: 12, 4: An attribute affected in classPlayer line 17 hide this method (method-hidden)
+************* Module classWord
+C:  7, 0: Trailing whitespace (trailing-whitespace)
+C:  8, 0: Trailing whitespace (trailing-whitespace)
+W: 10, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+W: 11, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+W: 12, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+C: 13, 0: Trailing whitespace (trailing-whitespace)
+C: 14, 0: Trailing whitespace (trailing-whitespace)
+C: 15, 0: Trailing whitespace (trailing-whitespace)
+C: 19, 0: Trailing whitespace (trailing-whitespace)
+C: 20, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Invalid module name "classWord" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 11,16: Invalid attribute name "currentWord" (invalid-name)
+W:  2, 0: Class has no __init__ method (no-init)
+C:  2, 0: Old-style class defined. (old-style-class)
+C:  4, 4: Missing method docstring (missing-docstring)
+E:  4, 4: An attribute affected in classWord line 5 hide this method (method-hidden)
+C:  8, 4: Invalid method name "currentWord" (invalid-name)
+C:  8, 4: Missing method docstring (missing-docstring)
+E:  8, 4: An attribute affected in classWord line 11 hide this method (method-hidden)
+C:  9,36: Invalid variable name "f" (invalid-name)
+C:  7, 0: Trailing whitespace (trailing-whitespace)
+C:  8, 0: Trailing whitespace (trailing-whitespace)
+W: 10, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+W: 11, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+W: 12, 0: Bad indentation. Found 16 spaces, expected 12 (bad-indentation)
+C: 13, 0: Trailing whitespace (trailing-whitespace)
+C: 14, 0: Trailing whitespace (trailing-whitespace)
+C: 15, 0: Trailing whitespace (trailing-whitespace)
+C: 19, 0: Trailing whitespace (trailing-whitespace)
+C: 20, 0: Trailing whitespace (trailing-whitespace)
+C:  1, 0: Invalid module name "classWord" (invalid-name)
+C:  1, 0: Missing module docstring (missing-docstring)
+C: 11,16: Invalid attribute name "currentWord" (invalid-name)
+W:  2, 0: Class has no __init__ method (no-init)
+C:  2, 0: Old-style class defined. (old-style-class)
+C:  4, 4: Missing method docstring (missing-docstring)
+E:  4, 4: An attribute affected in classWord line 5 hide this method (method-hidden)
+C:  8, 4: Invalid method name "currentWord" (invalid-name)
+C:  8, 4: Missing method docstring (missing-docstring)
+E:  8, 4: An attribute affected in classWord line 11 hide this method (method-hidden)
+C:  9,36: Invalid variable name "f" (invalid-name)
+************* Module ConfigParser
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Statement seems to have no effect (pointless-statement)
+E:  1, 1: Undefined variable 'Categories' (undefined-variable)
+C:  2, 0: Invalid constant name "listword" (invalid-name)
+E:  2,11: Undefined variable 'animals' (undefined-variable)
+W:  3, 0: Statement seems to have no effect (pointless-statement)
+E:  3, 1: Undefined variable 'Tries' (undefined-variable)
+C:  4, 0: Invalid constant name "guess" (invalid-name)
+************* Module game
+C: 19, 0: Trailing whitespace (trailing-whitespace)
+C: 23, 0: Trailing whitespace (trailing-whitespace)
+C: 25, 0: Exactly one space required after comma
+logging.basicConfig(filename=filename,level=logging.DEBUG,format="%(message)s")
+                                     ^ (bad-whitespace)
+C: 25, 0: Exactly one space required after comma
+logging.basicConfig(filename=filename,level=logging.DEBUG,format="%(message)s")
+                                                         ^ (bad-whitespace)
+C: 27, 0: Trailing whitespace (trailing-whitespace)
+C: 31, 0: Final newline missing (missing-final-newline)
+C:  1, 0: Missing module docstring (missing-docstring)
+W:  1, 0: Wildcard import classPlayer (wildcard-import)
+W:  2, 0: Wildcard import classDisplay (wildcard-import)
+W:  3, 0: Wildcard import classWord (wildcard-import)
+E:  7, 0: No name 'SafeConfigParser' in module 'ConfigParser' (no-name-in-module)
+C: 10, 0: Invalid constant name "parser" (invalid-name)
+C: 17, 0: Invalid constant name "word" (invalid-name)
+C: 18, 0: Invalid constant name "category" (invalid-name)
+C: 20, 0: Invalid constant name "player" (invalid-name)
+C: 21, 0: Invalid constant name "playerName" (invalid-name)
+C: 23, 0: Invalid constant name "filename" (invalid-name)
+C: 28, 0: Invalid constant name "currentword" (invalid-name)
+C: 30, 0: Invalid constant name "playGame" (invalid-name)
+W:  3, 0: Unused import random from wildcard import (unused-wildcard-import)
+W:  2, 0: Unused import HANGMANPICS from wildcard import (unused-wildcard-import)
+W:  2, 0: Unused import hangmanDisplay from wildcard import (unused-wildcard-import)
+************* Module locales
+F:  1, 0: error while code parsing: Unable to load file 'locales/__init__.py' ([Errno 2] No such file or directory: 'locales/__init__.py') (parse-error)
+************* Module testlog
+F:  1, 0: <type 'exceptions.TypeError'>: compile() expected string without null bytes (astroid-error)
+************* Module words
+F:  1, 0: error while code parsing: Unable to load file 'words/__init__.py' ([Errno 2] No such file or directory: 'words/__init__.py') (parse-error)
+R:  1, 0: Similar lines in 2 files
+==classGame:0
+==classGame:0
+from classPlayer import *
+from classDisplay import *
+from classWord import *
+import sys
+import logging
+
+class Game(object):
+    player = Player()
+    display = hangmanDisplay(HANGMANPICS)
+#     word = Word()
+#     category = word.category()
+#     currentword = word.currentWord()
+#
+#     player = Player()
+#     name = player.name()
+#     #guess = player.char()
+#
+#     display = hangmanDisplay(HANGMANPICS)
+# #     display.game()
+# #     display.Display_game()
+# #     display.Display_hidden()
+
+
+    def __init__(self, currentword, hidden = " ", rightGuess= " ",
+                 wrongGuess = " ",used = " ", SHOTS = 6):
+        self.currentword = currentword
+        self.hidden = hidden
+        self.rightGuess = rightGuess
+        self.wrongGuess = wrongGuess
+        self.used = used
+        self.SHOTS = SHOTS
+        self.used = self.wrongGuess + self.rightGuess
+
+    def hidden(self):
+        self.hidden = "-" * len(self.currentword)
+        for i in range(len(self.currentword)):
+            if self.currentword[i] in self.rightGuess:
+                self.hidden = self.hidden[:i] + self.currentword[i] \
+                + self.hidden[i+1:]
+            print self.hidden
+
+    def get_char(self):
+        leng = 0
+        while leng < self.SHOTS:
+            self.player.char()
+            guess = self.player.char.lower()
+            self.guess = guess
+            if len(guess) == 1 and guess in "abcdefghijklmnopqrstuvwxyz" \
+                and guess not in self.used:
+                return guess
+            else:
+                print "You should enter only one character \
+                from the alphabet without repeating it"
+
+
+    def play(self):
+        hidden = "-"*len(self.currentword)
+
+        while True:
+            self.used = self.wrongGuess + self.rightGuess
+            self.get_char()
+            if self.guess in self.currentword:
+                self.rightGuess += self.guess
+            else:
+                self.wrongGuess += self.guess
+
+            #hidden = self.hidden()
+
+            self.display.game(self.currentword)
+            self.display.Display_game(self.currentword, hidden, self.wrongGuess)
+            self.display.Display_hidden()
+
+            logging.info("%s,%s,%s,%s",self.rightGuess,self.wrongGuess,
+                         self.hidden,len(self.wrongGuess))
+
+
+
+            if len(self.wrongGuess) == self.SHOTS:
+                print " You loose the word was \" {word} \" try next time"#.format(word=self.currentword)
+                logging.info("@@@@The user lost and finish the game")
+                sys.exit()
+            if self.hidden == self.currentword:
+                print " You are smart the word was \" {word} \" Good job"#.format(word = self.currentword)
+                logging.info("@@@@The user win and finish the the game")
+                sys.exit()
+
+
+
+
+
+ (duplicate-code)
+R:  1, 0: Similar lines in 2 files
+==classDisplay:1
+==classDisplay:1
+HANGMANPICS = [
+'  +---+   \n  |   |   \n      |   \n      |   \n      |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n      |   \n      |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n  |   |   \n      |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n /|   |   \n      |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n /|\\  |   \n      |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n /|\\  |   \n /    |   \n      |   \n========= \n',
+'  +---+   \n  |   |   \n  0   |   \n /|\\  |   \n / \\  |   \n      |   \n========= \n'
+]
+
+
+class hangmanDisplay:
+    """ Display Hangman pictures and hidden word """
+
+    def __init__(self, HANGMANPICS):
+        """ Initialize the object
+
+        >>> first = hangmanDisplay(HANGMANPICS)
+
+        """
+        self.HANGMANPICS = HANGMANPICS
+
+    def game(self, currentword, hidden, wrongGuess = " "):
+        """
+        >>> first.game("parrot", "pa--ot","wdf")
+        """
+
+        self.currentword = currentword
+        self.hidden = hidden
+        self. wrongGuess = wrongGuess
+
+    def Display_game(self):
+        """
+        >>> first.Display_game()
+        >>> +---+
+            |   |
+            0   |
+           /|   |
+                |
+                |
+          =========
+        """
+
+        print self.HANGMANPICS[len(self.wrongGuess)]
+
+    def Display_hidden(self):
+        """
+        >>> first.Display_hidden()
+        >>> pa--ot
+        """
+        print self.hidden
+
+
+#
+# first = hangmanDisplay(HANGMANPICS)
+# first.game("parrot", "pa--ot","wdf")
+# first.Display_game()
+# first.Display_hidden() (duplicate-code)
+R:  1, 0: Similar lines in 2 files
+==classPlayer:0
+==classPlayer:0
+class Player:
+    """ Ask player for name and letter
+    >>> ob = Player()
+    """
+    def name(self):
+        """
+        >>> ob.name()
+        >>> What is your name?
+        """
+        self.name = raw_input("What is your name?")
+
+    def char(self):
+        """
+        >>> ob.char()
+        >>> Please enter a letter:
+        """
+        self.char = raw_input("Please enter a letter: ")
+
+
+
+# ob = Player()
+# ob.name()
+# ob.char() (duplicate-code)
+R:  1, 0: Similar lines in 2 files
+==classWord:0
+==classWord:0
+import random
+class Word:
+    """ Choice a word from different categories """
+    def category(self):
+        self.category = random.choice(["animals", "colour"])
+        print self.category
+
+    def currentWord(self):
+        with open(self.category) as f:
+                words = f.read().split()
+                self.currentWord = random.choice(words)
+                return self.currentWord
+
+
+
+# ob1 = Word()
+# ob1.category()
+# ob1.currentWord()
+
+ (duplicate-code)
+
+
+Report
+======
+181 statements analysed.
+
+External dependencies
+---------------------
+::
+
+    classGame 
+      \-Game (game)
+
+
+
+Duplication
+-----------
+
++-------------------------+-------+---------+-----------+
+|                         |now    |previous |difference |
++=========================+=======+=========+===========+
+|nb duplicated lines      |192    |192      |=          |
++-------------------------+-------+---------+-----------+
+|percent duplicated lines |45.070 |45.070   |=          |
++-------------------------+-------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |222    |222      |=          |
++-----------+-------+---------+-----------+
+|refactor   |6      |6        |=          |
++-----------+-------+---------+-----------+
+|warning    |38     |38       |=          |
++-----------+-------+---------+-----------+
+|error      |18     |18       |=          |
++-----------+-------+---------+-----------+
+
+
+
+% errors / warnings by module
+-----------------------------
+
++-------------+------+--------+---------+-----------+
+|module       |error |warning |refactor |convention |
++=============+======+========+=========+===========+
+|classGame    |16.67 |15.79   |16.67    |18.47      |
++-------------+------+--------+---------+-----------+
+|ConfigParser |16.67 |5.26    |0.00     |1.35       |
++-------------+------+--------+---------+-----------+
+|classWord    |11.11 |10.53   |0.00     |6.76       |
++-------------+------+--------+---------+-----------+
+|classPlayer  |11.11 |2.63    |0.00     |3.60       |
++-------------+------+--------+---------+-----------+
+|game         |5.56  |15.79   |0.00     |6.76       |
++-------------+------+--------+---------+-----------+
+|classDisplay |0.00  |10.53   |0.00     |17.12      |
++-------------+------+--------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|trailing-whitespace            |105         |
++-------------------------------+------------+
+|invalid-name                   |44          |
++-------------------------------+------------+
+|missing-docstring              |22          |
++-------------------------------+------------+
+|bad-whitespace                 |22          |
++-------------------------------+------------+
+|line-too-long                  |18          |
++-------------------------------+------------+
+|method-hidden                  |10          |
++-------------------------------+------------+
+|wildcard-import                |9           |
++-------------------------------+------------+
+|attribute-defined-outside-init |8           |
++-------------------------------+------------+
+|unused-wildcard-import         |7           |
++-------------------------------+------------+
+|old-style-class                |6           |
++-------------------------------+------------+
+|bad-indentation                |6           |
++-------------------------------+------------+
+|missing-final-newline          |5           |
++-------------------------------+------------+
+|no-init                        |4           |
++-------------------------------+------------+
+|duplicate-code                 |4           |
++-------------------------------+------------+
+|undefined-variable             |3           |
++-------------------------------+------------+
+|too-many-function-args         |2           |
++-------------------------------+------------+
+|too-many-arguments             |2           |
++-------------------------------+------------+
+|redefined-outer-name           |2           |
++-------------------------------+------------+
+|pointless-statement            |2           |
++-------------------------------+------------+
+|parse-error                    |2           |
++-------------------------------+------------+
+|no-value-for-parameter         |2           |
++-------------------------------+------------+
+|no-name-in-module              |1           |
++-------------------------------+------------+
+|astroid-error                  |1           |
++-------------------------------+------------+
+
+
+
+Global evaluation
+-----------------
+Your code has been rated at -9.67/10 (previous run: -9.67/10, +0.00)
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |11     |11         |=          |9.09        |72.73    |
++---------+-------+-----------+-----------+------------+---------+
+|class    |8      |8          |=          |75.00       |25.00    |
++---------+-------+-----------+-----------+------------+---------+
+|method   |24     |24         |=          |58.33       |25.00    |
++---------+-------+-----------+-----------+------------+---------+
+|function |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |204    |50.00 |204      |=          |
++----------+-------+------+---------+-----------+
+|docstring |89     |21.81 |89       |=          |
++----------+-------+------+---------+-----------+
+|comment   |46     |11.27 |46       |=          |
++----------+-------+------+---------+-----------+
+|empty     |69     |16.91 |69       |=          |
++----------+-------+------+---------+-----------+
+
+
+

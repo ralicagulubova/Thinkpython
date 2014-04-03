@@ -1,0 +1,7 @@
+@@@@The user start game
+# word, name, category, guesses 
+goose,ggffg,words/animals,6
+g,,g----,0
+g,y,g----,1
+g,ya,g----,2
+g,yal,g----,3
