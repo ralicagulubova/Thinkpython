@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-04-03 15:00+EEST\n"
+"PO-Revision-Date: 2014-04-03 15:03+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ClassGame.py:46
+msgid ""
+"You should enter only one character                from the alphabet without "
+"repeating it"
+msgstr "Трябва да въведеш само една буква от азбуката без да я повтаряш."
+
+#: ClassGame.py:49
+msgid ""
+"You should enter only one character\n"
+"                from the alphabet without repeating it"
+msgstr "Трябва да въведеш само една буква от азбуката без да я повтаряш."
+
+#: ClassGame.py:69
+msgid "You already used: "
+msgstr "Вече си използвал следните букви:"
+
+#: ClassGame.py:84
+msgid " You loose the word was \" {word} \"                 try next time"
+msgstr "Загуби!Думата беше  \" {word} \" .Опитай пак!"
+
+#: ClassGame.py:89
+msgid " You are smart the word was \" {word}\"                 Good job"
+msgstr "Браво думата беше \" {word}\" .Добра работа!"
